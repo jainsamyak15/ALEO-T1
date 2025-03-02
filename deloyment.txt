@@ -1,0 +1,62 @@
+? Do you want to submit deployment of program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf?✔ Do you want to submit deployment of program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf? · yes
+✅ Created deployment transaction for 'auction_test_gulshan1.aleo'
+
+Broadcasting transaction to https://api.explorer.provable.com/v1/testnet/transaction/broadcast...
+
+⌛ Deployment at1qmv0l8z669t5lmhshx6pwcwp4xqtg3xjgrv5cc7ayau0ksrxj5gsgpjjxd ('auction_test_gulshan1.aleo') has been broadcast to https://api.explorer.provable.com/v1/testnet/transaction/broadcast.
+
+`execute place_bid`
+
+leo execute place_bid --program auction_test_gulshan1.aleo aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf 100u64 --broadcast
+
+Base execution cost for 'auction_test_gulshan1' is 0.001629 credits.
+
++-----------------------+----------------+
+| auction_test_gulshan1 | Cost (credits) |
++-----------------------+----------------+
+| Transaction Storage   | 0.001629       |
++-----------------------+----------------+
+| On-chain Execution    | 0.000000       |
++-----------------------+----------------+
+| Priority Fee          | 0.000000       |
++-----------------------+----------------+
+| Total                 | 0.001629       |
++-----------------------+----------------+
+
+Your current public balance is 7.166875 credits.
+
+? Do you want to submit execution of function `place_bid` on program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg52✔ Do you want to submit execution of function `place_bid` on program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf? · yes
+✅ Created execution transaction for 'auction_test_gulshan1.aleo'
+
+Broadcasting transaction to https://api.explorer.provable.com/v1/testnet/transaction/broadcast...
+
+
+⌛ Execution at132e879qc6yc6ymnvvaan9y049tj4k70kywu6xkhhaa0rttx38c9scwscpy ('auction_test_gulshan1') has been broadcast to https://api.explorer.provable.com/v1/testnet/transaction/broadcast.
+
+leo execute place_bid --program auction_test_gulshan1.aleo aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf 200u64 --broadcast
+
+Base execution cost for 'auction_test_gulshan1' is 0.001629 credits.
+
++-----------------------+----------------+
+| auction_test_gulshan1 | Cost (credits) |
++-----------------------+----------------+
+| Transaction Storage   | 0.001629       |
++-----------------------+----------------+
+| On-chain Execution    | 0.000000       |
++-----------------------+----------------+
+| Priority Fee          | 0.000000       |
++-----------------------+----------------+
+| Total                 | 0.001629       |
++-----------------------+----------------+
+
+Your current public balance is 7.165246 credits.
+
+? Do you want to submit execution of function `place_bid` on program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg52✔ Do you want to submit execution of function `place_bid` on program `auction_test_gulshan1.aleo` to network testnet via endpoint https://api.explorer.provable.com/v1 using address aleo1jf252npmem3a9suskv3km8msvhcagg523qv69xle5splnlcy0sxqlalkrf? · yes
+✅ Created execution transaction for 'auction_test_gulshan1.aleo'
+
+Broadcasting transaction to https://api.explorer.provable.com/v1/testnet/transaction/broadcast...
+
+
+⌛ Execution at13hlegawpl4mk25knr57xdsvkqjw76wkmx4eu7euqtnk5zr2ppqyshwhemx ('auction_test_gulshan1') has been broadcast to https://api.explorer.provable.com/v1/testnet/transaction/broadcast.
+
+---
